@@ -1,0 +1,34 @@
+#top {
+	border: 1px solid black;
+	padding:10px 10px 10px 10px;
+	margin:10px 10px 10px 10px;
+	height:25px;
+}
+#left {
+	border: 1px solid black;
+	padding:10px 10px 10px 10px;
+	margin:10px 10px 10px 10px;
+	float:left;
+	width:550px;
+	height:600px;
+}
+#right {
+	border: 1px solid black;
+	padding:10px 10px 10px 10px;
+	margin:10px 10px 10px 10px;
+	float:right;
+	width:550px;
+	height:600px;
+}
+#bottom {
+	border: 1px solid black;
+	padding:10px 10px 10px 10px;
+	margin:10px 10px 10px 10px;
+	clear:both;
+	height:50px;
+}
+
+div img {
+	margin:auto; /*centers picture, must be a block*/ 
+	display:block;
+}
